@@ -1,0 +1,10 @@
+body {
+  background-color: #01070f;
+  font-family: 'Sacramento', cursive; }
+
+header h1 {
+  color: pink;
+  text-align: center;
+  font-size: 2.8em;
+  text-shadow: 1px 1px 7px #ff687f;
+  font-weight: 700; }
